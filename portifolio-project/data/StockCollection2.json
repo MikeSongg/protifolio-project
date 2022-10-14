@@ -1,0 +1,19 @@
+{
+    "stockList": [
+        {
+            "priceChange": -0.65,
+            "price": 12.16,
+            "name": "INO",
+            "exchange": "NASDAQ",
+            "category": "Medical"
+        },
+        {
+            "priceChange": 0.06,
+            "price": 15.84,
+            "name": "AC",
+            "exchange": "TSX",
+            "category": "Air"
+        }
+    ],
+    "name": "Mike"
+}

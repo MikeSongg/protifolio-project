@@ -1,0 +1,19 @@
+{
+  "stockList": [
+    {
+      "priceChange": -0.2,
+      "price": 27.02,
+      "name": "SNAP",
+      "exchange": "NYSE",
+      "category": "Internet"
+    },
+    {
+      "priceChange": -0.24,
+      "price": 7.05,
+      "name": "VXRT",
+      "exchange": "NASDAQ",
+      "category": "Medical"
+    }
+  ],
+  "name": "My Stock Collection"
+}
